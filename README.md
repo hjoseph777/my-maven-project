@@ -28,9 +28,11 @@ This file serves as the entry point for the application. It orchestrates the flo
 - **Performing Calculations**
 - **Handling Errors**
 
-## Project Structure
+## Display Output
+
 ![image alt](https://github.com/hjoseph777/my-maven-project/blob/9ff872f7cbe92bf67c3e40efbd45dce7752d26b6/resultScreenshot%202024-09-24%20183731.png)
 
+## Project Structure
 ```
 my-maven-project
 ├── src
