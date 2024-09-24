@@ -45,3 +45,5 @@ my-maven-project
 ├── pom.xml
 └── README.md
 
+
+![image alt](https://github.com/user-attachments/assets/1b200c5f-bec4-4207-938c-595150d30067)
