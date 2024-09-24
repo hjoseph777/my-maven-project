@@ -10,7 +10,7 @@ The Painting Company Application is designed to assist with calculating the amou
 
 ## Files
 
-### PaintingCompany.java
+### src/main/java/com/StartSample/PaintingCompany.java
 This file contains the core logic and utility methods for the painting calculations. It includes methods to:
 
 - **Get Room Dimensions**: Prompts the user to enter the height, width, and number of walls in the room and calculates the total wall area.
@@ -21,7 +21,7 @@ This file contains the core logic and utility methods for the painting calculati
 - **Calculate Costs**
 - **Display Results**
 
-### PaintingCompanyApp.java
+### src/main/java/com/StartSample/PaintingCompanyApp.java
 This file serves as the entry point for the application. It orchestrates the flow of the program by:
 
 - **Collecting User Inputs**
