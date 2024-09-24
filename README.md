@@ -1,12 +1,12 @@
 # Java using Maven
 
-This is a simple Maven's Java project structured to demonstrate the basic setup of a Java application. scroll down to see the flowchart  and hyerarchy  diagram of the project.
+This is a simple Maven Java project structured to demonstrate the basic setup of a Java application. Scroll down to see the flowchart and hierarchy  diagram of the project.
 
 Painting Company Application
 
 ## Overview
 
-The Painting Company Application is designed to assist with calculating the amount of paint required for painting a room, as well as the associated labor and cost. It takes into account the dimensions of the room, the dimensions of doors and windows, and the price of paint per gallon. The program then calculates the total paint required, labor hours needed, and the overall cost of the painting job.
+The Painting Company Application is designed to assist with calculating the amount of paint required for painting a room, as well as the associated labor and cost. It takes into account the room's dimensions, the dimensions of doors and windows, and the price of paint per gallon. The program then calculates the total paint required, labor hours needed, and the overall cost of the painting job.
 
 ## Files
 
@@ -32,9 +32,15 @@ This file serves as the entry point for the application. It orchestrates the flo
 
 ![image alt](https://github.com/hjoseph777/my-maven-project/blob/9ff872f7cbe92bf67c3e40efbd45dce7752d26b6/resultScreenshot%202024-09-24%20183731.png)
 
-## Flowchart
+## Flowchart Diagram (double click to expand)
 
 ![image alt](https://github.com/hjoseph777/my-maven-project/blob/dd2ca721c8b56dca560fecdabe7d997f7dfc92fc/PaintCompanyFlowchart.png)
+
+## Hierarchy Diagram 
+
+![image alt]()
+
+
 
 ## Project Structure
 ```
