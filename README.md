@@ -32,6 +32,10 @@ This file serves as the entry point for the application. It orchestrates the flo
 
 ![image alt](https://github.com/hjoseph777/my-maven-project/blob/9ff872f7cbe92bf67c3e40efbd45dce7752d26b6/resultScreenshot%202024-09-24%20183731.png)
 
+## Flowchart
+
+![image alt](https://github.com/hjoseph777/my-maven-project/blob/dd2ca721c8b56dca560fecdabe7d997f7dfc92fc/PaintCompanyFlowchart.png)
+
 ## Project Structure
 ```
 my-maven-project
