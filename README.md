@@ -29,6 +29,7 @@ This file serves as the entry point for the application. It orchestrates the flo
 - **Handling Errors**
 
 ## Project Structure
+![image alt](https://github.com/hjoseph777/my-maven-project/blob/9ff872f7cbe92bf67c3e40efbd45dce7752d26b6/resultScreenshot%202024-09-24%20183731.png)
 
 ```
 my-maven-project
@@ -48,17 +49,3 @@ my-maven-project
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image alt](https://github.com/hjoseph777/my-maven-project/blob/9ff872f7cbe92bf67c3e40efbd45dce7752d26b6/resultScreenshot%202024-09-24%20183731.png)
